@@ -7,10 +7,6 @@ h1{
     text-align: center;
 }
 
-.info{
-    display:flex;
-}
-
 nav{
     text-align: center;
     background-color: aqua;
@@ -88,6 +84,7 @@ h2:hover{
 
 .z{
     background-color: rgb(190, 121, 255);
+    margin-top: 100px;
     margin-right: 29px;
     margin-left: 40px;
     float: left;
