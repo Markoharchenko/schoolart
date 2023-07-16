@@ -1,0 +1,222 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    background-color: aqua;
+}
+
+.nav-link{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+h2:hover{
+    background-color: rgb(130, 130, 251);
+    transition: 3s background-color linear
+}
+
+.a{
+    border-radius: 700px;
+}
+
+.a:hover{
+    box-shadow: 3px 3px 3px 3px aquamarine;
+    transition: 3s linear;
+}
+
+.b{
+    border-radius: 90px;
+}
+
+.b:hover{
+    border: 3px dashed black;
+    transition: 2s linear;
+}
+
+.c{
+    float: right;
+}
+
+.c:hover{
+    border-radius: 70px;
+    border: 3px solid aqua;
+    transition: 3s  linear;
+}
+
+.n{
+    border-radius: 700px;
+}
+
+.n:hover{
+    width: 160px;
+    height: 135px;
+    transition: 3s linear;
+}
+
+.l{
+    text-decoration: none;
+    color: black;
+    background-color: blueviolet;
+    margin-right: 29px;
+    margin-left: 33px;
+    float: left;
+    padding: 3px;
+    margin-top: 3px;
+}
+
+.l:hover{
+    background-color: black;
+    color: white;
+    transition: 3s linear;
+}
+
+.z{
+    background-color: rgb(190, 121, 255);
+    margin-right: 29px;
+    margin-left: 40px;
+    float: left;
+    padding: 3px;
+}
+
+.z:hover{
+    background-color: black;
+    color: white;
+    transition: 3s linear;
+}
+
+.sx{
+    background-color: aqua;
+    text-align: center;
+}
+
+.sx:hover{
+    border-radius: 10px;
+    border: 3px solid aquamarine;
+    transition: 3s linear;
+
+}
+
+.popo{
+  margin-left: 500px;
+  text-decoration: none;
+  color: black;
+  background-color: blueviolet;
+  padding: 3px;
+}
+
+.popo:hover{
+    background-color: black;
+    color: white;
+    transition: 3s linear;
+}
+
+.lll{
+    margin-left: 100px;
+}
+
+.lala{
+    background-color: rgb(190, 121, 255);
+    margin-right: 29px;
+    margin-left: 27px;
+    float: left;
+    padding: 3px;
+}
+
+.lala:hover{
+    background-color: black;
+    color: white;
+    transition: 3s linear;
+}
+
+.postnews{
+    border-radius: 70px;
+}
+
+.postnews:hover{
+    opacity: 0.5;
+    transition: 3s linear;
+}
+
+.posts{
+    border-radius: 70px;
+}
+
+.posts:hover{
+    opacity: 0.5;
+    transition: 3s linear;
+}
+
+.plan{
+    border-radius: 70px;
+}
+
+.plan:hover{
+    opacity: 0.5;
+    transition: 3s linear;
+}
+
+.soso{
+    background-color: rgb(190, 121, 255);
+    margin-right: 29px;
+    margin-left: 50px;
+    float: left;
+    padding: 3px;
+}
+
+.soso:hover{
+    background-color: black;
+    color: white;
+    transition: 3s linear;
+}
+
+.lolo{
+    text-decoration: none;
+    color: black;
+    background-color: blueviolet;
+    margin-top: 500px;
+
+}
+
+.info {
+    display: flex;
+}
+
+article {
+    padding: 5px 37px 5px 37px;
+    width: 400px;
+    margin: 6px 25px 12px 21px;
+}
+
+.lolp{
+    margin-left: 38px;
+    text-decoration: none;
+    color: black;
+    background-color: blueviolet;
+    padding: 3px;
+    margin-top: 3px;
+}
+
+.nomo{
+    margin-left: 90px;
+}
+
+svg{
+    margin-left: 200px;
+}
+
+.nomo:hover{
+    background-color: rgb(130, 130, 251);
+    transition: 3s background-color linear;
+}
