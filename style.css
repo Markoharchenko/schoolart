@@ -7,6 +7,10 @@ h1{
     text-align: center;
 }
 
+.post{
+    display: inline-block;
+}
+
 nav{
     text-align: center;
     background-color: aqua;
