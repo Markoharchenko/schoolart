@@ -84,7 +84,6 @@ h2:hover{
 
 .z{
     background-color: rgb(190, 121, 255);
-    margin-top: 300px;
     margin-right: 29px;
     margin-left: 40px;
     float: left;
@@ -221,3 +220,4 @@ svg{
     background-color: rgb(130, 130, 251);
     transition: 3s background-color linear;
 }
+  
