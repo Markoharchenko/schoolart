@@ -9,6 +9,7 @@ h1{
 
 .post{
     display:flex;
+    text-align:center;
 }
 
 nav{
