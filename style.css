@@ -74,7 +74,6 @@ h2:hover{
     float: left;
     padding: 3px;
     margin-top: 3px;
-    display: flex;
 }
 
 .l:hover{
@@ -85,11 +84,11 @@ h2:hover{
 
 .z{
     background-color: rgb(190, 121, 255);
+    margin-top: 500px
     margin-right: 29px;
     margin-left: 40px;
     float: left;
     padding: 3px;
-    display: flex;
 }
 
 .z:hover{
@@ -134,7 +133,6 @@ h2:hover{
     margin-left: 27px;
     float: left;
     padding: 3px;
-    display: flex;
 }
 
 .lala:hover{
@@ -175,8 +173,7 @@ h2:hover{
     margin-right: 29px;
     margin-left: 50px;
     float: left;
-    padding: 3px;
-    display: flex;
+    padding: 3px;=
 }
 
 .soso:hover{
