@@ -7,11 +7,6 @@ h1{
     text-align: center;
 }
 
-.post{
-    display:flex;
-    text-align:center;
-}
-
 nav{
     text-align: center;
     background-color: aqua;
@@ -79,6 +74,7 @@ h2:hover{
     float: left;
     padding: 3px;
     margin-top: 3px;
+    display: flex;
 }
 
 .l:hover{
@@ -93,6 +89,7 @@ h2:hover{
     margin-left: 40px;
     float: left;
     padding: 3px;
+    display: flex;
 }
 
 .z:hover{
@@ -137,6 +134,7 @@ h2:hover{
     margin-left: 27px;
     float: left;
     padding: 3px;
+    display: flex;
 }
 
 .lala:hover{
@@ -178,6 +176,7 @@ h2:hover{
     margin-left: 50px;
     float: left;
     padding: 3px;
+    display: flex;
 }
 
 .soso:hover{
