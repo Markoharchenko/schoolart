@@ -7,6 +7,10 @@ h1{
     text-align: center;
 }
 
+.info{
+    display:flex;
+}
+
 nav{
     text-align: center;
     background-color: aqua;
